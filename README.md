@@ -1,4 +1,4 @@
-# CUG-atmos服务器使用教程
+# DAYU服务器使用教程
 
 ## 用户手册
 - [R语言配置](R.md)
@@ -6,7 +6,6 @@
 
 ## 管理员手册
 - [CENTOS_install_packages.md](CENTOS_install_packages)
-
 
 # 如何提问
 
